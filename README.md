@@ -4,7 +4,7 @@ Add a paper : counter-reset: list 7; in sass/typography.scss
 
 Compile : jekyll build
 Run locally : jekyll serve
-
+d
 ################################
 
 ### [Demo Website](http://ankitsultana.com/researcher)
