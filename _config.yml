@@ -1,0 +1,22 @@
+title: Yassine Hamoudi
+url: "https://yassine-hamoudi.github.io"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Theme's credit"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Home"
+   link: "index"
+ - name: "Contact"
+   link: "contact"
