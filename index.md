@@ -8,9 +8,15 @@ layout: default
 <img class="profile-picture" src="images/a.png">
 -->
 
-Since October 2023, I have been a CNRS researcher in the [Quantum Information & Computation group](https://quantique.labri.fr/) at [LaBRI](https://www.labri.fr/en) (Université de Bordeaux).
+Since October 2023, I have been a CNRS researcher at [LaBRI](https://www.labri.fr/en) (Université de Bordeaux) where I lead the [Quantum Information & Computation](https://quantique.labri.fr/) group.
 
 Previously, I was a Quantum Postdoctoral Fellow at the [Simons Institute](https://simons.berkeley.edu/) (UC Berkeley) hosted by Umesh Vazirani and a Ph.D. student at [IRIF](https://www.irif.fr/en/) (Université Paris Cité) advised by Frédéric Magniez and Miklos Santha.
+
+I am the coordinator of the [Maisons du quantique - Nouvelle-Aquitaine](https://www.hqi.fr/les-maisons-du-quantique/) grant.
+
+## Contact
+
+Follow [these instructions](https://quantique.labri.fr/positions/) if you wish to inquire about internship, PhD, or postdoctoral opportunities.
 
 Email: [ys.hamoudi@gmail.com](mailto:ys.hamoudi@gmail.com)
 
@@ -154,23 +160,23 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 ## Posters
 
-* Near-Optimal Quantum Algorithms for Multivariate Mean Estimation  [[PDF]](/files/posters/MultivariateMean-STOC22.pdf)
+* Near-Optimal Quantum Algorithms for Multivariate Mean Estimation [[PDF]](/files/posters/MultivariateMean-STOC22.pdf)
 * Classical and Quantum Algorithms for Variants of Subset-Sum via Dynamic Programming [[PDF]](/files/posters/SubsetSum-CQT.pdf)
 * Quantum Chebyshev’s Inequality and Applications [[PDF]](/files/posters/Chebyshev-QIP19.pdf)
 
-## Teaching
+## Teaching and Introductory Lectures
 
-* [Introduction to Quantum Computing](/files/slides/intro-qc.pdf), *Summer Course on Quantum Technologies*, University of the Basque Country, 2024.
-* [Quantum Query Complexity]({{site.baseurl}}/pcmi2023/), *PCMI Graduate Summer School*, 2023.
+* **Introduction to Quantum Computing and Quantum Algorithms**  
+  * *Graduate Program Numerics*, Université de Bordeaux, 16 October 2024 [[Slides]](/files/slides/Numerics.pdf)
+  * *Summer Course on Quantum Technologies*, University of the Basque Country, 9 September 2024 [[Slides]](/files/slides/intro-qc.pdf)
+* [Quantum Query Complexity]({{site.baseurl}}/pcmi2023/), *PCMI Graduate Summer School*, 24-28 July 2023.
 
 ## Service
 
 Program committee member: [QTML 2022](https://quasar.unina.it/qtml2022.html), [TQC 2023](https://tqc-conference.org/), [TQC 2024](https://tqc-conference.org/).
 
-Conference reviewer: <b>ESA</b> 23,24; <b>FCT</b> 23; <b>FOCS</b> 20,21; <b>FSTTCS</b> 20,21; <b>ICALP</b> 19,21,22,23; <b>ITCS</b> 20,25; <b>MFCS</b> 18,21,22,23,24; <b>QIP</b> 21,22,23,24; <b>SAC</b> 21; <b>SoCG</b> 22; <b>SODA</b> 21,22,23,24,25; <b>STACS</b> 21,23,24; <b>STOC</b> 23,24; <b>TQC</b> 22.
+Conference reviewer: <b>ESA</b> 23,24; <b>FCT</b> 23; <b>FOCS</b> 20,21; <b>FSTTCS</b> 20,21; <b>ICALP</b> 19,21,22,23; <b>ITCS</b> 20,25; <b>MFCS</b> 18,21,22,23,24; <b>QIP</b> 21,22,23,24,25; <b>SAC</b> 21; <b>SoCG</b> 22; <b>SODA</b> 21,22,23,24,25; <b>STACS</b> 21,23,24,25; <b>STOC</b> 23,24; <b>TQC</b> 22.
 
 Journal reviewer: ACM Transactions on Quantum Computing, Algorithmica, Discrete Mathematics & Theoretical Computer Science, IEEE Transactions on Computers, International Journal of Quantum Information, Mathematics of Operations Research, Quantum, Quantum Information & Computation, SIAM Journal on Computing.
-
-I am the head of the [Quantum Information and Computation](https://quantique.labri.fr/) group at LaBRI since October 2024.
 
 I was in charge of organizing the [Algorithms and Complexity seminar](https://www.irif.fr/en/seminaires/algocomp/index) at IRIF from 2017 to 2021.
