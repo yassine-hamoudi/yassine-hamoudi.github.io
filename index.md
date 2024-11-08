@@ -12,7 +12,7 @@ Since October 2023, I have been a CNRS researcher at [LaBRI](https://www.labri.f
 
 Previously, I was a Quantum Postdoctoral Fellow at the [Simons Institute](https://simons.berkeley.edu/) (UC Berkeley) hosted by Umesh Vazirani and a Ph.D. student at [IRIF](https://www.irif.fr/en/) (Université Paris Cité) advised by Frédéric Magniez and Miklos Santha.
 
-I am the coordinator of the [Maisons du quantique - Nouvelle-Aquitaine](https://www.hqi.fr/les-maisons-du-quantique/) grant.
+I am the coordinator of the CEA/GENCI grant [Maisons du quantique - Nouvelle-Aquitaine](https://www.hqi.fr/les-maisons-du-quantique/).
 
 ## Contact
 
