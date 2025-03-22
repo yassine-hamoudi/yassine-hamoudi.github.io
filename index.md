@@ -8,7 +8,7 @@ layout: default
 <img class="profile-picture" src="images/a.png">
 -->
 
-Since October 2023, I have been a CNRS researcher at [LaBRI](https://www.labri.fr/en) (Université de Bordeaux) where I lead the [Quantum Information & Computation](https://quantique.labri.fr/) group.
+Since October 2023, I have been a CNRS researcher at [LaBRI](https://www.labri.fr/en) (Université de Bordeaux, France) where I lead the [Quantum Information & Computation](https://quantique.labri.fr/) group.
 
 Previously, I was a Quantum Postdoctoral Fellow at the [Simons Institute](https://simons.berkeley.edu/) (UC Berkeley) hosted by Umesh Vazirani and a Ph.D. student at [IRIF](https://www.irif.fr/en/) (Université Paris Cité) advised by Frédéric Magniez and Miklos Santha.
 
@@ -28,6 +28,16 @@ My primary research interest is *quantum computing*. I study the impact of quant
 0000-0002-3762-0612) [![cv](images/cv.png){: style="max-width: 30px; height: auto;"}](/files/other/YassineHamoudi_CV.pdf) [![yt](images/yt.png){: style="max-width: 40px; height: auto;"}](https://www.youtube.com/@yassine_hamoudi)
 
 ## Publications
+
+13. **A Brief Introduction to Quantum Query Complexity**  
+   Yassine Hamoudi  
+    *Preprint (2025).*  
+    [[PDF]](/files/publications/QueryComplexity.pdf)
+
+12. **Non-linear Quantum Monte Carlo**  
+   Jose Blanchet, Yassine Hamoudi, Mario Szegedy, Guanyang Wang  
+   *Preprint (2025).*  
+   [[arXiv]](https://arxiv.org/abs/2502.05094)
 
 11. **The NISQ Complexity of Collision Finding**  
    Yassine Hamoudi, Qipeng Liu, Makrand Sinha  
@@ -175,7 +185,7 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 Program committee member: [QTML 2022](https://quasar.unina.it/qtml2022.html), [TQC 2023](https://tqc-conference.org/), [TQC 2024](https://tqc-conference.org/), [QCTiP 2025](https://qctip2025.com/).
 
-Conference reviewer: <b>ESA</b> 23,24; <b>FCT</b> 23; <b>FOCS</b> 20,21; <b>FSTTCS</b> 20,21; <b>ICALP</b> 19,21,22,23; <b>ITCS</b> 20,25; <b>MFCS</b> 18,21,22,23,24; <b>QIP</b> 21,22,23,24,25; <b>SAC</b> 21; <b>SoCG</b> 22; <b>SODA</b> 21,22,23,24,25; <b>STACS</b> 21,23,24,25; <b>STOC</b> 23,24,25; <b>TQC</b> 22.
+Conference reviewer: <b>ESA</b> 23,24; <b>FCT</b> 23; <b>FOCS</b> 20,21; <b>FSTTCS</b> 20,21; <b>ICALP</b> 19,21,22,23,25; <b>ITCS</b> 20,25; <b>MFCS</b> 18,21,22,23,24; <b>QIP</b> 21,22,23,24,25; <b>SAC</b> 21; <b>SoCG</b> 22; <b>SODA</b> 21,22,23,24,25; <b>STACS</b> 21,23,24,25; <b>STOC</b> 23,24,25; <b>TQC</b> 22.
 
 Journal reviewer: ACM Transactions on Quantum Computing, Algorithmica, Discrete Mathematics & Theoretical Computer Science, IEEE Transactions on Computers, International Journal of Quantum Information, Mathematics of Operations Research, Quantum, Quantum Information & Computation, SIAM Journal on Computing.
 
