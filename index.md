@@ -118,6 +118,9 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 ## Talks
 
+* **Quantum Algorithms for Multilevel Monte Carlo Methods**  
+   *Basque Country - Bordeaux Quantum Algorithms Meeting*, Bayonne, 9 April 2025
+
 * **The NISQ Complexity of Collision Finding**  
   * *Eurocrypt 2024*, Zürich, 29 May 2024 [[Slides]](/files/slides/NISQ-Eurocrypt.pdf)
   * *QUDATA Project*, LaBRI, Bordeaux, 26 January 2024 [[Slides]](/files/slides/NISQ-QuDATA.pdf)
