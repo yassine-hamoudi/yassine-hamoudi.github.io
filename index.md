@@ -2,6 +2,8 @@
 layout: default
 ---
 
+### [<span style="color:red">-> Materials for CEMRACS Summer School</span>]({{site.baseurl}}/cemracs2025/)
+
 ## About Me
 
 <!--
@@ -12,7 +14,7 @@ Since October 2023, I have been a CNRS researcher at [LaBRI](https://www.labri.f
 
 Previously, I was a Quantum Postdoctoral Fellow at the [Simons Institute](https://simons.berkeley.edu/) (UC Berkeley) hosted by Umesh Vazirani and a Ph.D. student at [IRIF](https://www.irif.fr/en/) (Université Paris Cité) advised by Frédéric Magniez and Miklos Santha.
 
-I am the coordinator of the CEA/GENCI grant [Maisons du quantique - Nouvelle-Aquitaine](https://www.hqi.fr/les-maisons-du-quantique/).
+I am the coordinator of the CEA/GENCI grant [Maisons du quantique - Nouvelle-Aquitaine](https://quantique.labri.fr/hybquant/).
 
 ## Contact
 
@@ -119,7 +121,7 @@ My primary research interest is *quantum computing*. I study the impact of quant
 ## Talks
 
 * **Quantum Algorithms for Multilevel Monte Carlo Methods**  
-   *Basque Country - Bordeaux Quantum Algorithms Meeting*, Bayonne, 9 April 2025
+  * *Basque Country - Bordeaux Quantum Algorithms Meeting*, Bayonne, 9 April 2025
 
 * **The NISQ Complexity of Collision Finding**  
   * *Eurocrypt 2024*, Zürich, 29 May 2024 [[Slides]](/files/slides/NISQ-Eurocrypt.pdf)
@@ -177,12 +179,13 @@ My primary research interest is *quantum computing*. I study the impact of quant
 * Classical and Quantum Algorithms for Variants of Subset-Sum via Dynamic Programming [[PDF]](/files/posters/SubsetSum-CQT.pdf)
 * Quantum Chebyshev’s Inequality and Applications [[PDF]](/files/posters/Chebyshev-QIP19.pdf)
 
-## Teaching and Introductory Lectures
+## Lecture Notes
 
+* [Optimization Problems on Quantum Computers]({{site.baseurl}}/cemracs2025/), *CEMRACS Summer School*, 15-19 July 2025.
+* [Quantum Query Complexity]({{site.baseurl}}/pcmi2023/), *PCMI Graduate Summer School*, 24-28 July 2023.
 * **Introduction to Quantum Computing and Quantum Algorithms**  
   * *Graduate Program Numerics*, Université de Bordeaux, 16 October 2024 [[Slides]](/files/slides/Numerics.pdf)
   * *Summer Course on Quantum Technologies*, University of the Basque Country, 9 September 2024 [[Slides]](/files/slides/intro-qc.pdf)
-* [Quantum Query Complexity]({{site.baseurl}}/pcmi2023/), *PCMI Graduate Summer School*, 24-28 July 2023.
 
 ## Service
 
