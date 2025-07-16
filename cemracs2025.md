@@ -19,7 +19,7 @@ The potential of quantum algorithms for solving optimization problems has been e
 ### Lectures
 
 * *Lecture 1:* Quantum optimization algorithms inspired by physics [[Slides]](/files/cemracs2025/Lecture1.pdf)
-* *Lecture 2:* Quantum optimization algorithms using oracles
+* *Lecture 2:* Quantum optimization algorithms using oracles [Slides]
 
 ### Suggested references
 
@@ -44,7 +44,5 @@ The potential of quantum algorithms for solving optimization problems has been e
   - "Quantum Speedups for Exponential-Time Dynamic Programming Algorithms". A. Ambainis, K. Balodis, J. Iraids, M. Kokainis, K. Prūsis, J. Vihrovs. [[Paper]](https://arxiv.org/abs/1807.05209) [[Video]](https://youtu.be/LAF1QkRRHXo)
   - "Quantum Speedup for Graph Sparsification, Cut Approximation and Laplacian Solving". S. Apers, R. de Wolf. [[Paper]](https://arxiv.org/abs/1911.07306) [[Video]](https://www.youtube.com/watch?v=p2hZL38tqAs)
   - "Quantum Algorithms for Escaping from Saddle Points". C. Zhang, J. Leng, T. Li. [[Paper]](https://arxiv.org/abs/2007.10253) [[Video]](https://www.youtube.com/watch?v=xbHqktWa354)
-  - "Quantum Speedups for Zero-Sum Games via Improved Dynamic Gibbs Sampling". A. Bouland, Y. Getachew, Y. Jin, A. Sidford, K. Tian. [[Paper]](https://arxiv.org/abs/2301.03763) [[Video]](https://www.youtube.com/watch?v=7emo41SuzNg)
-* *Other suggested research papers:*
   - "Mind the Gap: Achieving a Super-Grover Quantum Speedup by Jumping to the End". A. Dalzell, N. Pancotti, E. Campbell, F. Brandão. [[Paper]](https://arxiv.org/abs/2212.01513) [[Video]](https://www.youtube.com/watch?v=MahJlDfp98w)
-  - "Optimization by Decoded Quantum Interferometry". Jordan et al. [[Paper]](https://arxiv.org/abs/2408.08292) [[Video]](https://www.youtube.com/watch?v=mA4kdOPOFLM)
+  - "Quantum Speedups for Zero-Sum Games via Improved Dynamic Gibbs Sampling". A. Bouland, Y. Getachew, Y. Jin, A. Sidford, K. Tian. [[Paper]](https://arxiv.org/abs/2301.03763) [[Video]](https://www.youtube.com/watch?v=7emo41SuzNg)
