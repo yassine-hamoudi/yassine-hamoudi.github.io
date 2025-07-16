@@ -19,7 +19,7 @@ The potential of quantum algorithms for solving optimization problems has been e
 ### Lectures
 
 * *Lecture 1:* Quantum optimization algorithms inspired by physics [[Slides]](/files/cemracs2025/Lecture1.pdf)
-* *Lecture 2:* Quantum optimization algorithms using oracles [Slides]
+* *Lecture 2:* Quantum optimization algorithms using oracles [[Slides]](/files/cemracs2025/Lecture2.pdf)
 
 ### Suggested references
 
