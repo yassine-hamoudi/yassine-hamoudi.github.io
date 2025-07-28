@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### [<span style="color:red">-> Materials for CEMRACS Summer School</span>]({{site.baseurl}}/cemracs2025/)
+<!-- ### [<span style="color:red">-> Materials for CEMRACS Summer School</span>]({{site.baseurl}}/cemracs2025/) -->
 
 ## About Me
 
