@@ -34,7 +34,7 @@ My primary research interest is *quantum computing*. I study the impact of quant
 13. **A Brief Introduction to Quantum Query Complexity**  
    Yassine Hamoudi  
     *Preprint (2025).*  
-    [[PDF]](/files/publications/QueryComplexity.pdf)
+    [[PDF]](/files/publications/QueryComplexity.pdf) [[arXiv]](https://arxiv.org/abs/2508.08852)
 
 12. **Non-linear Quantum Monte Carlo**  
    Jose Blanchet, Yassine Hamoudi, Mario Szegedy, Guanyang Wang  
@@ -118,6 +118,14 @@ My primary research interest is *quantum computing*. I study the impact of quant
    Undergraduate internship, 2014.  
   [[PDF (french)]](/files/other/L3thesis.pdf) [[Slides (french)]](/files/other/L3thesis-slides.pdf)
 
+## Lecture Notes
+
+* [Optimization Problems on Quantum Computers]({{site.baseurl}}/cemracs2025/), *CEMRACS Summer School*, 15-19 July 2025.
+* [Quantum Query Complexity]({{site.baseurl}}/pcmi2023/), *PCMI Graduate Summer School*, 24-28 July 2023.
+* **Introduction to Quantum Computing and Quantum Algorithms**  
+  * *Graduate Program Numerics*, Université de Bordeaux, 16 October 2024 [[Slides]](/files/slides/Numerics.pdf)
+  * *Summer Course on Quantum Technologies*, University of the Basque Country, 9 September 2024 [[Slides]](/files/slides/intro-qc.pdf)
+
 ## Talks
 
 * **Quantum Algorithms for Multilevel Monte Carlo Methods**  
@@ -178,14 +186,6 @@ My primary research interest is *quantum computing*. I study the impact of quant
 * Near-Optimal Quantum Algorithms for Multivariate Mean Estimation [[PDF]](/files/posters/MultivariateMean-STOC22.pdf)
 * Classical and Quantum Algorithms for Variants of Subset-Sum via Dynamic Programming [[PDF]](/files/posters/SubsetSum-CQT.pdf)
 * Quantum Chebyshev’s Inequality and Applications [[PDF]](/files/posters/Chebyshev-QIP19.pdf)
-
-## Lecture Notes
-
-* [Optimization Problems on Quantum Computers]({{site.baseurl}}/cemracs2025/), *CEMRACS Summer School*, 15-19 July 2025.
-* [Quantum Query Complexity]({{site.baseurl}}/pcmi2023/), *PCMI Graduate Summer School*, 24-28 July 2023.
-* **Introduction to Quantum Computing and Quantum Algorithms**  
-  * *Graduate Program Numerics*, Université de Bordeaux, 16 October 2024 [[Slides]](/files/slides/Numerics.pdf)
-  * *Summer Course on Quantum Technologies*, University of the Basque Country, 9 September 2024 [[Slides]](/files/slides/intro-qc.pdf)
 
 ## Service
 
