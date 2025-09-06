@@ -118,7 +118,7 @@ My primary research interest is *quantum computing*. I study the impact of quant
    Undergraduate internship, 2014.  
   [[PDF (french)]](/files/other/L3thesis.pdf) [[Slides (french)]](/files/other/L3thesis-slides.pdf)
 
-## Lecture Notes
+## Courses
 
 * [Optimization Problems on Quantum Computers]({{site.baseurl}}/cemracs2025/), *CEMRACS Summer School*, 15-19 July 2025.
 * [Quantum Query Complexity]({{site.baseurl}}/pcmi2023/), *PCMI Graduate Summer School*, 24-28 July 2023.
