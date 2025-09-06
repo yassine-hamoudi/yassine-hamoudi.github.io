@@ -189,7 +189,7 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 ## Service
 
-Program committee member: [QTML 2022](https://quasar.unina.it/qtml2022.html), [TQC 2023](https://tqc-conference.org/), [TQC 2024](https://tqc-conference.org/), [QCTiP 2025](https://qctip2025.com/).
+Program committee member: [QTML 2022](https://quasar.unina.it/qtml2022.html), [TQC 2023](https://tqc-conference.org/), [TQC 2024](https://tqc-conference.org/), [QCTiP 2025](https://qctip2025.com/), [QIP 2026](https://qip2026.lu.lv/).
 
 Conference reviewer: <b>ESA</b> 23,24; <b>FCT</b> 23; <b>FOCS</b> 20,21; <b>FSTTCS</b> 20,21; <b>ICALP</b> 19,21,22,23,25; <b>ITCS</b> 20,25; <b>MFCS</b> 18,21,22,23,24; <b>QIP</b> 21,22,23,24,25; <b>SAC</b> 21; <b>SoCG</b> 22; <b>SODA</b> 21,22,23,24,25; <b>STACS</b> 21,23,24,25; <b>STOC</b> 23,24,25; <b>TQC</b> 22,25.
 
