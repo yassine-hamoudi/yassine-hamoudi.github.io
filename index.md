@@ -38,7 +38,7 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 12. **A Near-Optimal Quantum-Accelerated Monte Carlo Estimator for Nested Expectations**  
    Jose Blanchet, Yassine Hamoudi, Mario Szegedy, Guanyang Wang  
-   *Accepted as a Spotlight Talk at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025).*  
+   *Accepted as a Spotlight at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025).*  
    [[arXiv]](https://arxiv.org/abs/2502.05094)
 
 11. **The NISQ Complexity of Collision Finding**  
