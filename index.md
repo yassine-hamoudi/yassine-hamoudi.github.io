@@ -24,7 +24,7 @@ Email: [ys.hamoudi@gmail.com](mailto:ys.hamoudi@gmail.com)
 
 ## Research Interest
 
-My primary research interest is *quantum computing*. I study the impact of quantum mechanics on algorithm design and computational complexity theory. I have contributed to new quantum *algorithms* in diverse areas such as optimization, statistical analysis, streaming data, graph problems and cryptanalysis. I am also interested in new algorithmic and *lower-bound* methods for understanding the interplay between the computational resources available to quantum computers, with a particular interest in time-space tradeoffs.
+My primary research interest is *quantum computing*. I study the impact of quantum mechanics on algorithm design and computational complexity theory. I have contributed to new quantum *algorithms* in diverse areas such as optimization, statistical analysis, streaming data, graph problems and cryptanalysis. I am also interested in new algorithmic and *lower-bound* methods for understanding the interplay between the computational resources available to quantum computers, with a particular interest in query complexity.
 
 [![scholar](images/scholar.png){: style="max-width: 40px; height: auto;"}](https://scholar.google.com/citations?user=WjPv00AAAAAJ) [![orcid](images/orcid.png){: style="max-width: 40px; height: auto;"}](https://orcid.org/
 0000-0002-3762-0612) [![cv](images/cv.png){: style="max-width: 30px; height: auto;"}](/files/other/YassineHamoudi_CV.pdf) [![yt](images/yt.png){: style="max-width: 40px; height: auto;"}](https://www.youtube.com/@yassine_hamoudi)
@@ -39,7 +39,7 @@ My primary research interest is *quantum computing*. I study the impact of quant
 12. **A Near-Optimal Quantum-Accelerated Monte Carlo Estimator for Nested Expectations**  
    Jose Blanchet, Yassine Hamoudi, Mario Szegedy, Guanyang Wang  
    *Accepted as a spotlight at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025).*  
-   [[arXiv]](https://arxiv.org/abs/2502.05094)
+   [[PDF]](/files/publications/MLMC.pdf) [[arXiv]](https://arxiv.org/abs/2502.05094)
 
 11. **The NISQ Complexity of Collision Finding**  
    Yassine Hamoudi, Qipeng Liu, Makrand Sinha  
