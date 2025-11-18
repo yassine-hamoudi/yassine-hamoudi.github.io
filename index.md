@@ -104,7 +104,7 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 * **Quantum Algorithms for the Monte Carlo Method**  
   PhD Thesis, 2021.  
-  [[PDF]](/files/other/PhDthesis.pdf) [[Slides]](/files/slides/PhD-Defense.pdf) [[Link]](https://theses.fr/en/2021UNIP7153)
+  [[PDF]](/files/other/PhDthesis.pdf) [[Slides]](/files/slides/PhD-Defense.pdf) [[Link]](https://theses.fr/2021UNIP7153)
 * **Communication Complexity**  
   Master’s Thesis, 2016.  
   [[PDF]](/files/other/MasterThesis.pdf) [[Slides]](/files/other/MasterThesis-slides.pdf)
