@@ -31,6 +31,11 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 ## Publications
 
+14. **Dequantization Barriers for Guided Stoquastic Hamiltonians**  
+   Yassine Hamoudi, Yvan Le Borgne, Shrinidhi Teganahally Sridhara  
+    *Preprint (2026).*  
+    [[PDF]](/files/publications/Stoquastic.pdf) [[arXiv]](https://arxiv.org/abs/2602.23183)
+
 13. **A Brief Introduction to Quantum Query Complexity**  
    Yassine Hamoudi  
     *Preprint (2025).*  
@@ -129,6 +134,9 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 ## Talks
 
+* **Dequantization Barriers for Guided Stoquastic Hamiltonians**  
+  * *QInfo Seminar*, Lyon, 11 December 2025 [[Slides]](/files/slides/Stoquastic-ENS.pdf)  
+
 * **Quantum Algorithms for Multilevel Monte Carlo Methods**  
   * *Basque Country - Bordeaux Quantum Algorithms Meeting*, Bayonne, 9 April 2025 [[Slides]](/files/slides/MLMC.pdf)
 
@@ -192,7 +200,7 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 Program committee member: [QTML 2022](https://quasar.unina.it/qtml2022.html), [TQC 2023](https://tqc-conference.org/), [TQC 2024](https://tqc-conference.org/), [QCTiP 2025](https://qctip2025.com/), [QIP 2026](https://qip2026.lu.lv/).
 
-Conference reviewer: <b>ESA</b> 23,24; <b>FCT</b> 23; <b>FOCS</b> 20,21; <b>FSTTCS</b> 20,21; <b>ICALP</b> 19,21,22,23,25; <b>ITCS</b> 20,25; <b>MFCS</b> 18,21,22,23,24; <b>QIP</b> 21,22,23,24,25; <b>SAC</b> 21; <b>SoCG</b> 22; <b>SODA</b> 21,22,23,24,25; <b>STACS</b> 21,23,24,25; <b>STOC</b> 23,24,25; <b>TQC</b> 22,25.
+Conference reviewer: <b>ESA</b> 23,24; <b>FCT</b> 23; <b>FOCS</b> 20,21; <b>FSTTCS</b> 20,21; <b>ICALP</b> 19,21,22,23,25,26; <b>ITCS</b> 20,25; <b>MFCS</b> 18,21,22,23,24; <b>QCTiP</b> 26; <b>QIP</b> 21,22,23,24,25; <b>SAC</b> 21; <b>SoCG</b> 22; <b>SODA</b> 21,22,23,24,25; <b>STACS</b> 21,23,24,25; <b>STOC</b> 23,24,25,26; <b>TQC</b> 22,25,26.
 
 Journal reviewer: ACM Transactions on Quantum Computing, Algorithmica, Discrete Mathematics & Theoretical Computer Science, IEEE Transactions on Computers, International Journal of Quantum Information, Mathematics of Operations Research, Quantum, Quantum Information & Computation, SIAM Journal on Computing.
 

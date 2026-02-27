@@ -1,0 +1,1 @@
+After adding a bullet point: main.css > counter-reset:list
