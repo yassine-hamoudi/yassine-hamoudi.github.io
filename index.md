@@ -196,6 +196,14 @@ My primary research interest is *quantum computing*. I study the impact of quant
 * Classical and Quantum Algorithms for Variants of Subset-Sum via Dynamic Programming [[PDF]](/files/posters/SubsetSum-CQT.pdf)
 * Quantum Chebyshev’s Inequality and Applications [[PDF]](/files/posters/Chebyshev-QIP19.pdf)
 
+## Advising
+
+* Joseph Cunningham (Postdoctoral researcher) -- November 2025 to present.
+* Vishvajeet Nagargoje (Postdoctoral researcher) -- October 2025 to present.
+* Shrinidhi Teganahally Sridhara (PhD student), co-advised with Adrian Tanasa -- October 2024 to present. 
+* Ananya Rajas Ranade (Undergraduate intern) -- May to July 2025.
+* Rishav Gupta (Undergraduate intern), co-advised with Adrian Tanasa -- May to July 2024.
+
 ## Service
 
 Program committee member: [QTML 2022](https://quasar.unina.it/qtml2022.html), [TQC 2023](https://tqc-conference.org/), [TQC 2024](https://tqc-conference.org/), [QCTiP 2025](https://qctip2025.com/), [QIP 2026](https://qip2026.lu.lv/), [ESA 26](https://algo-conference.org/2026/esa/).
