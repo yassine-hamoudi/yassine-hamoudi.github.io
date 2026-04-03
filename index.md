@@ -33,13 +33,13 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 14. **Dequantization Barriers for Guided Stoquastic Hamiltonians**  
    Yassine Hamoudi, Yvan Le Borgne, Shrinidhi Teganahally Sridhara  
-    *Preprint (2026).*  
-    [[PDF]](/files/publications/Stoquastic.pdf) [[arXiv]](https://arxiv.org/abs/2602.23183)
+   *Contributed talk at the 21st Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2026).*  
+   [[PDF]](/files/publications/Stoquastic.pdf) [[arXiv]](https://arxiv.org/abs/2602.23183)
 
 13. **A Brief Introduction to Quantum Query Complexity**  
    Yassine Hamoudi  
-    *Preprint (2025).*  
-    [[PDF]](/files/publications/QueryComplexity.pdf) [[arXiv]](https://arxiv.org/abs/2508.08852)
+   *Preprint (2025).*  
+   [[PDF]](/files/publications/QueryComplexity.pdf) [[arXiv]](https://arxiv.org/abs/2508.08852)
 
 12. **Quantum Speedup of Non-Linear Monte Carlo Problems**  
    Jose Blanchet, Yassine Hamoudi, Mario Szegedy, Guanyang Wang  
