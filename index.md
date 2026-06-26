@@ -198,6 +198,7 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 ## Advising
 
+* Karim El Houdaigui (Research engineer) -- April 2026 to present.
 * Joseph Cunningham (Postdoctoral researcher) -- November 2025 to present.
 * Vishvajeet Nagargoje (Postdoctoral researcher) -- October 2025 to present.
 * Shrinidhi Teganahally Sridhara (PhD student), co-advised with Adrian Tanasa -- October 2024 to present. 
