@@ -127,7 +127,8 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 * [Optimization Problems on Quantum Computers]({{site.baseurl}}/cemracs2025/), *CEMRACS Summer School*, 15-19 July 2025.
 * [Quantum Query Complexity]({{site.baseurl}}/pcmi2023/), *PCMI Graduate Summer School*, 24-28 July 2023.
-* **Introduction to Quantum Computing and Quantum Algorithms**  
+* **Introduction to Quantum Computing and Quantum Algorithms** 
+  * *Journée informatique quantique*, Toulouse, 29 June 2026 [[Slides]](/files/slides/JIQToulouse.pdf)
   * *Séminaire du Département Informatique*, ENS Lyon, 10 December 2025 [[Slides]](/files/slides/SIESTE.pdf)
   * *Graduate Program Numerics*, Université de Bordeaux, 16 October 2024 & 2025 [[Slides]](/files/slides/Numerics.pdf)
   * *Summer Course on Quantum Technologies*, University of the Basque Country, 9 September 2024 [[Slides]](/files/slides/intro-qc.pdf)
