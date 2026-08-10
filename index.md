@@ -44,7 +44,7 @@ My primary research interest is *quantum computing*. I study the impact of quant
 12. **Quantum Speedup of Non-Linear Monte Carlo Problems**  
    Jose Blanchet, Yassine Hamoudi, Mario Szegedy, Guanyang Wang  
    *Accepted as a spotlight at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025).*  
-   [[PDF]](/files/publications/MLMC.pdf) [[arXiv]](https://arxiv.org/abs/2502.05094)
+   [[PDF]](/files/publications/MLMC.pdf) [[arXiv]](https://arxiv.org/abs/2502.05094) [[Conference]](https://doi.org/10.52202/085713-0631)
 
 11. **The NISQ Complexity of Collision Finding**  
    Yassine Hamoudi, Qipeng Liu, Makrand Sinha  
