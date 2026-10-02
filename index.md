@@ -31,6 +31,11 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 ## Publications
 
+15. **Quantum Sampling of Random Spanning Trees via Amortized Data Structures**  
+   Yassine Hamoudi, Adrian Tanasa, Shrinidhi Teganahally Sridhara  
+   *Preprint (2026).*  
+   [[arXiv]](https://arxiv.org/abs/2609.40314)
+
 14. **Dequantization Barriers for Guided Stoquastic Hamiltonians**  
    Yassine Hamoudi, Yvan Le Borgne, Shrinidhi Teganahally Sridhara  
    *Contributed talk at the 21st Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2026).*  
@@ -208,7 +213,7 @@ My primary research interest is *quantum computing*. I study the impact of quant
 
 ## Service
 
-Program committee member: [QTML 2022](https://quasar.unina.it/qtml2022.html), [TQC 2023](https://tqc-conference.org/), [TQC 2024](https://tqc-conference.org/), [QCTiP 2025](https://qctip2025.com/), [QIP 2026](https://qip2026.lu.lv/), [ESA 26](https://algo-conference.org/2026/esa/).
+Program committee member: [QTML 2022](https://quasar.unina.it/qtml2022.html), [TQC 2023](https://tqc-conference.org/), [TQC 2024](https://tqc-conference.org/), [QCTiP 2025](https://qctip2025.com/), [QIP 2026](https://qip2026.lu.lv/), [ESA 26](https://algo-conference.org/2026/esa/), [QIP 2027](https://qipconference.org/2027/).
 
 Conference reviewer: <b>ESA</b> 23,24; <b>FCT</b> 23; <b>FOCS</b> 20,21; <b>FSTTCS</b> 20,21; <b>ICALP</b> 19,21,22,23,25,26; <b>ITCS</b> 20,25; <b>MFCS</b> 18,21,22,23,24; <b>QCTiP</b> 26; <b>QIP</b> 21,22,23,24,25; <b>SAC</b> 21; <b>SoCG</b> 22; <b>SODA</b> 21,22,23,24,25; <b>STACS</b> 21,23,24,25; <b>STOC</b> 23,24,25,26; <b>TQC</b> 22,25,26.
 
